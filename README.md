@@ -1,6 +1,6 @@
 # Lake Level Data Scraper
 
-This repository contains a Python script to scrape lake storage and level data from the Chennai Metropolitan Water Supply and Sewerage Board (CMWSSB) website for specified dates listed in an Excel file.
+This repository contains a Python script to scrape lake storage and level data from the Chennai Metropolitan Water Supply and Sewerage Board (CMWSSB) [website](https://cmwssb.tn.gov.in/lake-level?date=) for specified dates listed in an Excel file.
 
 ## Overview
 
